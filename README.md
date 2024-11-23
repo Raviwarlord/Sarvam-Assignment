@@ -16,8 +16,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Stack Used
 -- Frontend: React
+
 -- SravamAPIs: for speech to text translation
 
 ## Future Enhanceents
 -- Text translation can also be expanded to indic langugaes instead of english
+
 -- Instead of just text the text provided can also be converted to speech and be played back and forth between the users

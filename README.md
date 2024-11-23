@@ -11,4 +11,4 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-![screenshot](screenshot.png)
+![screenshot]([screenshot.png](https://github.com/Raviwarlord/Sarvam-Assignment/blob/main/screenshots/Screenshot%202024-11-23%20at%2012.37.10%20PM.png))

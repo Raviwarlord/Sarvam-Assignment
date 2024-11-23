@@ -53,8 +53,7 @@ export function PodcastStarter() {
   
       if (response.ok) {
         const data = await response.json();
-        const speaker = p1Speaking ? 'P1 said:' : 'P2 said:';
-        addConversation(`${speaker} ${data.transcript}`);
+        addConversation(`${data.transcript}`);
 
         console.log('API Response:', data);
       } else {

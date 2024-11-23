@@ -40,7 +40,7 @@ export function PodcastStarter() {
   
     // Add required headers
     const headers = {
-      'api-subscription-key': '40fa323e-d965-43ab-8e4e-80299a1149fa',
+      'api-subscription-key': 'ENTER_YOUR_API_KEY',
     };
   
     try {
